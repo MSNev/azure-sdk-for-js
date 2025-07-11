@@ -180,11 +180,11 @@
       "words": ["Jsons"]
     },
     {
-      "filename": "sdk/apimanagement/api-management-custom-widgets-scaffolder/review/api-management-custom-widgets-scaffolder.api.md",
+      "filename": "sdk/apimanagement/api-management-custom-widgets-scaffolder/review/api-management-custom-widgets-scaffolder*.api.md",
       "words": ["APIM", "scaffolder"]
     },
     {
-      "filename": "sdk/apimanagement/api-management-custom-widgets-tools/review/api-management-custom-widgets-tools.api.md",
+      "filename": "sdk/apimanagement/api-management-custom-widgets-tools/review/api-management-custom-widgets-tools*.api.md",
       "words": ["APIM", "MSAPIM"]
     },
     {
